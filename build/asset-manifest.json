@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df112e19.css",
+    "main.js": "/static/js/main.129152bb.js",
+    "static/media/scoreboard-background.gif": "/static/media/scoreboard-background.1933afebf87c946c30f7.gif",
+    "static/media/gameBG.gif": "/static/media/gameBG.39f08404cb8de4eab38f.gif",
+    "static/media/background.jpg": "/static/media/background.b5b71e363401038a725b.jpg",
+    "index.html": "/index.html",
+    "main.df112e19.css.map": "/static/css/main.df112e19.css.map",
+    "main.129152bb.js.map": "/static/js/main.129152bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df112e19.css",
+    "static/js/main.129152bb.js"
+  ]
+}
